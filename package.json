@@ -1,0 +1,26 @@
+{
+  "name": "json2csv-convertor",
+  "version": "1.0.2",
+  "description": "Easy to use package make json to csv.",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  ],
+  "author": "NS",
+  "license": "ISC",
+  "dependencies": {
+    "@json2csv/formatters": "^7.0.3",
+    "@json2csv/node": "^7.0.3",
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "json-2-csv": "^4.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "request": "^2.88.2"
+  }
+}
